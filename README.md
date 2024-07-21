@@ -1,4 +1,4 @@
-# Numbrt-Guess-Game
+# Number-Guess-Game
 A simple number guess game.
 Range from 1 to 100.
 

@@ -1,7 +1,8 @@
 # Numbrt-Guess-Game
 A simple number guess game.
 Range from 1 to 100.
-OS only support windows
+
+OS only support windows.
 
 GUI version is developing...
 
